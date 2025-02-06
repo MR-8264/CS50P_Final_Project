@@ -1,0 +1,8 @@
+praw
+python-dotenv
+transformers
+datasets
+evaluate
+accelerate
+tabulate
+yfinance
